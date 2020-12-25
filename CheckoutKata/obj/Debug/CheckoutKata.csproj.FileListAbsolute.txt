@@ -1,0 +1,12 @@
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\CheckoutKata.dll
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\CheckoutKata.pdb
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\Castle.Core.dll
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\Castle.Core.xml
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dev\Interviews\CheckoutKata\CheckoutKata\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dev\Interviews\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.csproj.CoreCompileInputs.cache
+D:\dev\Interviews\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.csproj.CopyComplete
+D:\dev\Interviews\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.dll
+D:\dev\Interviews\CheckoutKata\CheckoutKata\obj\Debug\CheckoutKata.pdb
